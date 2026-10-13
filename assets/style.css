@@ -481,6 +481,7 @@ header.scrolled .logo-img{height:32px}
 .month-row:last-child{border-bottom:0}
 .month-row b{font-family:var(--serif);font-style:italic;font-size:17px;color:var(--amber2);min-width:26px;font-weight:500}
 .month-row.note{color:var(--muted);font-size:13px}
+.month-row.past{opacity:.45}
 
 /* ===== artigo ===== */
 .article{max-width:740px;margin:0 auto}
